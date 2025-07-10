@@ -11,28 +11,28 @@ export const mockData = {
     name: "Gaia Gozzi",
     role: "Project Coordinator",
     bio: "Leads project planning and ensures overall coordination, bringing a passion for campus sustainability.",
-    image: "https://randomuser.me/api/portraits/women/44.jpg"
+    image: "/img/gaia.jpg"
   },
   {
     id: 2,
     name: "Tomina Saveanu",
     role: "Ecology & Biodiversity Lead",
     bio: "Expert in local ecosystems, biodiversity, and guiding the garden’s ecological impact.",
-    image: "https://randomuser.me/api/portraits/women/47.jpg"
+    image: "/img/tomania.jpg"
   },
   {
     id: 3,
     name: "Sara Spiegel",
     role: "Workshop/Education Coordinator",
     bio: "Designs and leads student learning activities and workshops in sustainability.",
-    image: "https://randomuser.me/api/portraits/women/65.jpg"
+    image: "/img/sara.jpg"
   },
   {
     id: 4,
     name: "Melrose Tamuke",
     role: "Communication & Outreach",
     bio: "Connects the project to the wider campus and community through outreach and events.",
-    image: "https://randomuser.me/api/portraits/women/56.jpg"
+    image: "/img/melrose.jpg"
   },
   {
     id: 5,
